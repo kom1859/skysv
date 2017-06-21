@@ -1,57 +1,53 @@
 ---
 TSGuild:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSAnnounce:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSBox:
-  121.0.122.128: 이별서버-hyunwoo
-  121.0.122.10: DTS서버-jun04
-  45.32.17.130: 킬러스서버-killer_XS
-  45.76.49.115: NYT서버-chunk
+  45.76.215.98: SKY-kom
 TSBurningEvent:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSCoupon:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSDontDropCrops:
-  121.0.122.128: 이별서버-hyunwoo
-TSFriend:
-  121.0.122.128: 이별서버-hyunwoo
-TSFurnace:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
+TSFriend:  45.76.215.98: SKY-kom
+TSFurnace:  45.76.215.98: SKY-kom
+  45.76.215.98: SKY-kom
 TSMine:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSNoColor:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSNoSpam:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSPayToHome:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSPrefix:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSProposer:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSProtectChest:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSPersonalShop:
-  121.0.122.128: 이별서버-hynuwoo
+  45.76.215.98: SKY-kom
 TSSmartShop:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSTimeToBanCommands:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSTimeBroadCaster:
-  121.0.122.128: 이별서버-hyuwoo
+  45.76.215.98: SKY-kom
 TSTutorial:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSSponsor:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSPvp:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSServerManager:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSPackage:
-  121.0.122.128: 이별서버-hyuwoo
+  45.76.215.98: SKY-kom
 TSFindingThing:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 TSSuddenlyQuiz:
-  121.0.122.128: 이별서버-hyunwoo
+  45.76.215.98: SKY-kom
 ...
